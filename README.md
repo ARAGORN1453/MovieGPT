@@ -28,3 +28,6 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 MovieGPT is released under the MIT License. See the LICENSE file for more details.
 
 Enjoy exploring a world of movies with MovieGPT, where AI meets your cinematic taste!
+
+![Ekran görüntüsü 2024-03-29 151858](https://github.com/ARAGORN1453/MovieGPT/assets/119515258/48e2fc6c-11bf-42ce-9138-52bc94c6723a)
+
